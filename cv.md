@@ -32,7 +32,7 @@ At the moment, **my experience in PHP development is more than 2 years**. During
 - gained experience of working in a team
 
 
-Now I'm a student in RS-school. I want to systematize and improve my knowledge in front-end development, get the skill of working with js-frameworks and in the future become a full-stack developer. Or maybe I will like this course so much that I want to completely switch to front-end development :)
+Now I'm a student in RS-school. I want to systematize and improve my knowledge in front-end development, get the skill of working with js-frameworks and in the future become a full-stack developer. Or maybe I will like this course so much that I want to completely switch to JavaScript :)
 
 ---
 ## SKILLS
@@ -79,10 +79,12 @@ sayHello(world);
     - Optimizing queries
 - **Courses by RS School** *(in progress)*
     - JavaScript/Front-end. Stage 0
+
 ---
 ## LANGUAGES
 
 - English (B2)
 - Russian (native speaker)
 - Belorussian (native speaker)
+
 ---
