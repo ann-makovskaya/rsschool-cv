@@ -88,6 +88,6 @@ sayHello(world);
 
 - English (B2)
 - Russian (native speaker)
-- Belorussian (native speaker)
+- Belarusian (native speaker)
 
 ---
