@@ -1,3 +1,48 @@
-.green {
-	color: green;
+h1, h2 {
+	text-transform:uppercase;
+}
+
+body {
+	margin: 0 auto;
+	height: 100%;
+}
+
+li {
+	list-style: none;
+}
+
+header {
+	background-color: aquamarine;
+}
+
+.menu ul {
+	display: flex;
+	justify-content: space-around;
+	padding: 10px 40px;
+}
+
+footer {
+	background-color: aliceblue;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+	padding: 5px 20px;
+}
+
+footer img {
+	width: 100px;
+	height: auto;
+}
+
+#profilePhoto {
+	width: 300px;
+	height: auto;
+	border-radius: 50%;
+	border: 5px solid greenyellow;
+}
+
+@media (min-width: 1000px) {
+	body {
+		max-width: 1300px;
+	}
 }
