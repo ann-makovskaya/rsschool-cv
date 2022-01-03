@@ -1,2 +1,3 @@
-https://ann-makovskaya/rsschool-cv/cv
-https://ann-makovskaya/rsschool-cv/
+https://ann-makovskaya.github.io/rsschool-cv/cv
+
+https://ann-makovskaya.github.io/rsschool-cv/
