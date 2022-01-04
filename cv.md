@@ -52,7 +52,7 @@ Now I'm a student in RS-school. I want to systematize and improve my knowledge i
 ## CODE EXAMPLE
 
 ```js
-var world = 'world';
+let world = 'world';
 
 function sayHello(text) {
   alert('Hello, ' + text + '!');
