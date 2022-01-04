@@ -22,7 +22,7 @@ h1, h2 {
 
 body {
 	margin: 0 auto;
-	min-width: 1200px
+	width: 1200px;
 }
 
 li {
@@ -249,21 +249,19 @@ code {
 	background-color: #eeeeee;
 }
 
-
 @media (max-width: 1200px) {
 
 	body {
 		min-width: 400px;
+		width: auto;
 	}
 
-	.main-content, .top-part {
+	.main-content {
 		flex-direction: column;
 	}
 
-	#title {
-		padding: 10px 30px;
-		margin-top: 0;
-		color: var(--text-color);
+	.top-part .right-part {
+		margin-left: 30px;
 	}
 
 	.left-part, .right-part {
@@ -272,12 +270,27 @@ code {
 
 	.menu ul {
 		flex-direction: column;
+		align-items: center;
 		padding: 10px 0;
 	}
 
 	.menu li {
 		padding: 10px;
 		font-size: x-large;
+	}
+
+}
+
+@media (max-width: 800px) {
+
+	.top-part {
+		flex-direction: column;
+	}
+
+	#title {
+		padding: 10px 30px;
+		margin-top: 0;
+		color: var(--text-color);
 	}
 
 }
