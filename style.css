@@ -250,8 +250,34 @@ code {
 }
 
 
-@media (min-width: 1100px) {
+@media (max-width: 1200px) {
+
 	body {
-		max-width: 1300px;
+		min-width: 400px;
 	}
+
+	.main-content, .top-part {
+		flex-direction: column;
+	}
+
+	#title {
+		padding: 10px 30px;
+		margin-top: 0;
+		color: var(--text-color);
+	}
+
+	.left-part, .right-part {
+		width: auto;
+	}
+
+	.menu ul {
+		flex-direction: column;
+		padding: 10px 0;
+	}
+
+	.menu li {
+		padding: 10px;
+		font-size: x-large;
+	}
+
 }
